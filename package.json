@@ -1,0 +1,16 @@
+{
+  "name": "api-demo-nodejs",
+  "version": "1.0.0",
+  "description": "coinbene node.js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petingo",
+  "license": "ISC",
+  "dependencies": {
+    "js-md5": "^0.7.3",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
